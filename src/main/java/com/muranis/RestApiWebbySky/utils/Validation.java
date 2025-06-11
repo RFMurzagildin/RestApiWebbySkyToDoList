@@ -1,7 +1,5 @@
 package com.muranis.RestApiWebbySky.utils;
 
-import com.muranis.RestApiWebbySky.model.User;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

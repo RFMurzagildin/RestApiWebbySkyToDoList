@@ -18,6 +18,7 @@ public class TaskController {
             @RequestBody TaskDto taskDto,
             @RequestHeader("Authorization") String authorizationHeader
     ){
+        System.out.println(taskDto.getTime());
         return taskService.createNewTask(taskDto, authorizationHeader);
     }
 

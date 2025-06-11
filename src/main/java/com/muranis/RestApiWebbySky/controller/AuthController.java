@@ -2,7 +2,6 @@ package com.muranis.RestApiWebbySky.controller;
 
 import com.muranis.RestApiWebbySky.dto.JwtRequest;
 import com.muranis.RestApiWebbySky.dto.RegistrationUserDto;
-import com.muranis.RestApiWebbySky.exceptions.ApiResponse;
 import com.muranis.RestApiWebbySky.service.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

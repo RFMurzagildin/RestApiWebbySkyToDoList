@@ -2,9 +2,7 @@ package com.muranis.RestApiWebbySky.model;
 
 import jakarta.persistence.*;
 import lombok.*;
-
 import java.util.Collection;
-import java.util.Collections;
 
 @Entity
 @Data

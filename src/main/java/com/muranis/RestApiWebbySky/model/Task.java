@@ -2,7 +2,6 @@ package com.muranis.RestApiWebbySky.model;
 
 import jakarta.persistence.*;
 import lombok.*;
-
 import java.time.LocalDateTime;
 
 @Entity

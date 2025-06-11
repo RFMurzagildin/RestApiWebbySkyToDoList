@@ -1,7 +1,6 @@
 package com.muranis.RestApiWebbySky.model;
 
 import jakarta.persistence.*;
-import jakarta.persistence.criteria.CriteriaBuilder;
 import lombok.Data;
 
 @Entity
